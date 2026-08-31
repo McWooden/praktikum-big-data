@@ -1,0 +1,24 @@
+[project]
+name = "praktikum-big-data"
+version = "0.1.0"
+description = "Repositori praktikum mata kuliah Big Data"
+readme = "README.md"
+authors = [
+    { name = "McWooden", email = "garryf7887@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.1",
+    "notebook>=7.6.2",
+    "numpy>=2.4.6",
+    "pandas>=3.0.5",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+praktikum-bigdata = "praktikum_bigdata:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
