@@ -1,0 +1,201 @@
+order_id,tanggal,kategori,unit_terjual,harga_satuan,metode_pembayaran,kota
+MAG-2000,2026-08-12,Fashion,1,50000,Transfer Bank,Magelang
+MAG-2001,2026-08-18,Elektronik,7,25000,COD,Magelang
+MAG-2002,2026-08-07,Elektronik,7,25000,E-Wallet,Magelang
+MAG-2003,2026-08-24,Rumah Tangga,6,25000,COD,Magelang
+MAG-2004,2026-08-30,Fashion,7,100000,Transfer Bank,Magelang
+MAG-2005,2026-08-12,Kesehatan & Kecantikan,7,250000,Kartu Kredit,Magelang
+MAG-2006,2026-08-16,Rumah Tangga,4,75000,Kartu Kredit,Magelang
+MAG-2007,2026-08-10,Kesehatan & Kecantikan,5,250000,Kartu Kredit,Magelang
+MAG-2008,2026-08-14,Fashion,6,25000,Kartu Kredit,Magelang
+MAG-2009,2026-08-09,Rumah Tangga,7,150000,E-Wallet,Magelang
+MAG-2010,2026-08-05,Kesehatan & Kecantikan,3,50000,E-Wallet,Magelang
+MAG-2011,2026-08-09,Elektronik,7,75000,Kartu Kredit,Magelang
+MAG-2012,2026-08-22,Kesehatan & Kecantikan,5,250000,Transfer Bank,Magelang
+MAG-2013,2026-08-29,Kesehatan & Kecantikan,1,25000,Transfer Bank,Magelang
+MAG-2014,2026-08-29,Fashion,1,75000,Kartu Kredit,Magelang
+MAG-2015,2026-08-01,Elektronik,2,75000,Kartu Kredit,Magelang
+MAG-2016,2026-08-15,Kesehatan & Kecantikan,6,75000,Kartu Kredit,Magelang
+MAG-2017,2026-08-06,Kesehatan & Kecantikan,7,25000,E-Wallet,Magelang
+MAG-2018,2026-08-13,Fashion,6,150000,Kartu Kredit,Magelang
+MAG-2019,2026-08-30,Fashion,3,250000,Kartu Kredit,Magelang
+MAG-2020,2026-08-09,Fashion,1,75000,COD,Magelang
+MAG-2021,2026-08-18,Elektronik,5,75000,E-Wallet,Magelang
+MAG-2022,2026-08-20,Makanan & Minuman,2,150000,COD,Magelang
+MAG-2023,2026-08-16,Fashion,2,150000,Transfer Bank,Magelang
+MAG-2024,2026-08-27,Makanan & Minuman,4,75000,Kartu Kredit,Magelang
+MAG-2025,2026-08-09,Fashion,2,75000,COD,Magelang
+MAG-2026,2026-08-20,Fashion,7,250000,Kartu Kredit,Magelang
+MAG-2027,2026-08-30,Elektronik,2,250000,Transfer Bank,Magelang
+MAG-2028,2026-08-20,Rumah Tangga,1,150000,COD,Magelang
+MAG-2029,2026-08-28,Elektronik,6,25000,Transfer Bank,Magelang
+MAG-2030,2026-08-03,Makanan & Minuman,3,50000,E-Wallet,Magelang
+MAG-2031,2026-08-13,Makanan & Minuman,2,250000,E-Wallet,Magelang
+MAG-2032,2026-08-09,Elektronik,5,150000,Kartu Kredit,Magelang
+MAG-2033,2026-08-26,Rumah Tangga,2,50000,Kartu Kredit,Magelang
+MAG-2034,2026-08-20,Elektronik,4,100000,Kartu Kredit,Magelang
+MAG-2035,2026-08-31,Makanan & Minuman,7,75000,Transfer Bank,Magelang
+MAG-2036,2026-08-11,Elektronik,2,100000,Kartu Kredit,Magelang
+MAG-2037,2026-08-13,Kesehatan & Kecantikan,4,25000,E-Wallet,Magelang
+MAG-2038,2026-08-12,Rumah Tangga,5,100000,E-Wallet,Magelang
+MAG-2039,2026-08-24,Makanan & Minuman,1,50000,Kartu Kredit,Magelang
+MAG-2040,2026-08-01,Fashion,2,75000,E-Wallet,Magelang
+MAG-2041,2026-08-10,Rumah Tangga,2,75000,Kartu Kredit,Magelang
+MAG-2042,2026-08-24,Makanan & Minuman,3,150000,COD,Magelang
+MAG-2043,2026-08-10,Fashion,4,50000,E-Wallet,Magelang
+MAG-2044,2026-08-16,Rumah Tangga,7,150000,COD,Magelang
+MAG-2045,2026-08-09,Elektronik,4,75000,Transfer Bank,Magelang
+MAG-2046,2026-08-31,Kesehatan & Kecantikan,4,100000,E-Wallet,Magelang
+MAG-2047,2026-08-05,Elektronik,6,50000,Transfer Bank,Magelang
+MAG-2048,2026-08-20,Rumah Tangga,2,75000,Kartu Kredit,Magelang
+MAG-2049,2026-08-04,Fashion,6,250000,COD,Magelang
+MAG-2050,2026-08-29,Makanan & Minuman,1,250000,COD,Magelang
+MAG-2051,2026-08-08,Rumah Tangga,5,150000,Transfer Bank,Magelang
+MAG-2052,2026-08-11,Rumah Tangga,7,75000,Kartu Kredit,Magelang
+MAG-2053,2026-08-21,Elektronik,6,50000,COD,Magelang
+MAG-2054,2026-08-25,Rumah Tangga,4,250000,Transfer Bank,Magelang
+MAG-2055,2026-08-08,Makanan & Minuman,2,100000,E-Wallet,Magelang
+MAG-2056,2026-08-07,Rumah Tangga,5,150000,E-Wallet,Magelang
+MAG-2057,2026-08-15,Makanan & Minuman,7,75000,E-Wallet,Magelang
+MAG-2058,2026-08-10,Fashion,3,100000,COD,Magelang
+MAG-2059,2026-08-21,Makanan & Minuman,1,75000,Kartu Kredit,Magelang
+MAG-2060,2026-08-19,Fashion,6,100000,Kartu Kredit,Magelang
+MAG-2061,2026-08-24,Makanan & Minuman,3,100000,Kartu Kredit,Magelang
+MAG-2062,2026-08-08,Makanan & Minuman,4,150000,Kartu Kredit,Magelang
+MAG-2063,2026-08-08,Elektronik,1,25000,Transfer Bank,Magelang
+MAG-2064,2026-08-16,Kesehatan & Kecantikan,1,150000,Kartu Kredit,Magelang
+MAG-2065,2026-08-13,Kesehatan & Kecantikan,2,250000,Transfer Bank,Magelang
+MAG-2066,2026-08-01,Rumah Tangga,1,75000,COD,Magelang
+MAG-2067,2026-08-21,Fashion,5,150000,Transfer Bank,Magelang
+MAG-2068,2026-08-11,Makanan & Minuman,4,150000,Transfer Bank,Magelang
+MAG-2069,2026-08-13,Elektronik,1,50000,Transfer Bank,Magelang
+MAG-2070,2026-08-18,Fashion,4,25000,E-Wallet,Magelang
+MAG-2071,2026-08-25,Kesehatan & Kecantikan,7,75000,Transfer Bank,Magelang
+MAG-2072,2026-08-12,Rumah Tangga,7,75000,Transfer Bank,Magelang
+MAG-2073,2026-08-20,Rumah Tangga,6,100000,COD,Magelang
+MAG-2074,2026-08-16,Makanan & Minuman,1,100000,COD,Magelang
+MAG-2075,2026-08-02,Rumah Tangga,2,150000,COD,Magelang
+MAG-2076,2026-08-30,Fashion,2,100000,E-Wallet,Magelang
+MAG-2077,2026-08-25,Elektronik,2,150000,COD,Magelang
+MAG-2078,2026-08-05,Elektronik,7,25000,E-Wallet,Magelang
+MAG-2079,2026-08-29,Elektronik,6,50000,Transfer Bank,Magelang
+MAG-2080,2026-08-20,Elektronik,4,25000,COD,Magelang
+MAG-2081,2026-08-19,Elektronik,2,50000,E-Wallet,Magelang
+MAG-2082,2026-08-04,Rumah Tangga,5,100000,Transfer Bank,Magelang
+MAG-2083,2026-08-31,Kesehatan & Kecantikan,3,75000,Transfer Bank,Magelang
+MAG-2084,2026-08-11,Rumah Tangga,2,50000,E-Wallet,Magelang
+MAG-2085,2026-08-20,Makanan & Minuman,3,250000,COD,Magelang
+MAG-2086,2026-08-29,Fashion,7,50000,Kartu Kredit,Magelang
+MAG-2087,2026-08-08,Fashion,7,25000,E-Wallet,Magelang
+MAG-2088,2026-08-21,Fashion,5,150000,COD,Magelang
+MAG-2089,2026-08-28,Makanan & Minuman,7,50000,Kartu Kredit,Magelang
+MAG-2090,2026-08-09,Kesehatan & Kecantikan,2,25000,E-Wallet,Magelang
+MAG-2091,2026-08-23,Elektronik,4,250000,E-Wallet,Magelang
+MAG-2092,2026-08-27,Kesehatan & Kecantikan,1,250000,Transfer Bank,Magelang
+MAG-2093,2026-08-27,Elektronik,7,50000,Transfer Bank,Magelang
+MAG-2094,2026-08-20,Makanan & Minuman,5,50000,Transfer Bank,Magelang
+MAG-2095,2026-08-24,Fashion,5,150000,Transfer Bank,Magelang
+MAG-2096,2026-08-15,Elektronik,5,150000,COD,Magelang
+MAG-2097,2026-08-16,Makanan & Minuman,6,250000,Transfer Bank,Magelang
+MAG-2098,2026-08-23,Elektronik,1,25000,Kartu Kredit,Magelang
+MAG-2099,2026-08-06,Kesehatan & Kecantikan,5,250000,Kartu Kredit,Magelang
+MAG-2100,2026-08-23,Makanan & Minuman,5,150000,COD,Magelang
+MAG-2101,2026-08-10,Fashion,3,100000,Transfer Bank,Magelang
+MAG-2102,2026-08-30,Fashion,3,50000,Transfer Bank,Magelang
+MAG-2103,2026-08-14,Fashion,6,75000,E-Wallet,Magelang
+MAG-2104,2026-08-03,Fashion,5,150000,Transfer Bank,Magelang
+MAG-2105,2026-08-19,Rumah Tangga,7,25000,COD,Magelang
+MAG-2106,2026-08-27,Kesehatan & Kecantikan,2,50000,Transfer Bank,Magelang
+MAG-2107,2026-08-16,Makanan & Minuman,5,250000,COD,Magelang
+MAG-2108,2026-08-29,Fashion,3,150000,Kartu Kredit,Magelang
+MAG-2109,2026-08-12,Elektronik,4,250000,Transfer Bank,Magelang
+MAG-2110,2026-08-28,Makanan & Minuman,1,100000,E-Wallet,Magelang
+MAG-2111,2026-08-11,Kesehatan & Kecantikan,4,150000,Kartu Kredit,Magelang
+MAG-2112,2026-08-18,Fashion,4,150000,COD,Magelang
+MAG-2113,2026-08-31,Makanan & Minuman,3,100000,COD,Magelang
+MAG-2114,2026-08-04,Kesehatan & Kecantikan,3,250000,COD,Magelang
+MAG-2115,2026-08-29,Elektronik,2,25000,COD,Magelang
+MAG-2116,2026-08-04,Makanan & Minuman,6,75000,COD,Magelang
+MAG-2117,2026-08-20,Rumah Tangga,3,50000,COD,Magelang
+MAG-2118,2026-08-21,Elektronik,3,100000,E-Wallet,Magelang
+MAG-2119,2026-08-16,Kesehatan & Kecantikan,7,150000,E-Wallet,Magelang
+MAG-2120,2026-08-15,Rumah Tangga,4,75000,Transfer Bank,Magelang
+MAG-2121,2026-08-27,Elektronik,7,50000,COD,Magelang
+MAG-2122,2026-08-06,Fashion,7,250000,Transfer Bank,Magelang
+MAG-2123,2026-08-26,Fashion,5,75000,COD,Magelang
+MAG-2124,2026-08-29,Makanan & Minuman,3,100000,E-Wallet,Magelang
+MAG-2125,2026-08-06,Fashion,7,100000,Kartu Kredit,Magelang
+MAG-2126,2026-08-25,Fashion,4,100000,COD,Magelang
+MAG-2127,2026-08-20,Fashion,7,50000,COD,Magelang
+MAG-2128,2026-08-07,Makanan & Minuman,7,25000,Kartu Kredit,Magelang
+MAG-2129,2026-08-25,Elektronik,5,25000,Transfer Bank,Magelang
+MAG-2130,2026-08-08,Rumah Tangga,2,75000,E-Wallet,Magelang
+MAG-2131,2026-08-28,Rumah Tangga,3,250000,E-Wallet,Magelang
+MAG-2132,2026-08-06,Elektronik,6,100000,Transfer Bank,Magelang
+MAG-2133,2026-08-15,Makanan & Minuman,6,150000,COD,Magelang
+MAG-2134,2026-08-08,Rumah Tangga,3,100000,E-Wallet,Magelang
+MAG-2135,2026-08-06,Makanan & Minuman,1,50000,Kartu Kredit,Magelang
+MAG-2136,2026-08-05,Fashion,3,75000,Kartu Kredit,Magelang
+MAG-2137,2026-08-21,Kesehatan & Kecantikan,2,50000,COD,Magelang
+MAG-2138,2026-08-24,Elektronik,5,250000,E-Wallet,Magelang
+MAG-2139,2026-08-04,Fashion,2,250000,COD,Magelang
+MAG-2140,2026-08-16,Fashion,1,150000,COD,Magelang
+MAG-2141,2026-08-03,Elektronik,6,250000,Kartu Kredit,Magelang
+MAG-2142,2026-08-04,Kesehatan & Kecantikan,7,50000,COD,Magelang
+MAG-2143,2026-08-19,Rumah Tangga,1,250000,Kartu Kredit,Magelang
+MAG-2144,2026-08-26,Fashion,7,50000,Transfer Bank,Magelang
+MAG-2145,2026-08-14,Elektronik,5,150000,E-Wallet,Magelang
+MAG-2146,2026-08-15,Makanan & Minuman,1,250000,Kartu Kredit,Magelang
+MAG-2147,2026-08-04,Fashion,5,75000,Kartu Kredit,Magelang
+MAG-2148,2026-08-15,Makanan & Minuman,7,50000,Kartu Kredit,Magelang
+MAG-2149,2026-08-29,Elektronik,6,250000,COD,Magelang
+MAG-2150,2026-08-06,Fashion,6,25000,Kartu Kredit,Magelang
+MAG-2151,2026-08-23,Rumah Tangga,1,75000,Transfer Bank,Magelang
+MAG-2152,2026-08-30,Fashion,4,25000,Transfer Bank,Magelang
+MAG-2153,2026-08-23,Makanan & Minuman,3,25000,COD,Magelang
+MAG-2154,2026-08-22,Makanan & Minuman,2,50000,E-Wallet,Magelang
+MAG-2155,2026-08-27,Rumah Tangga,5,150000,COD,Magelang
+MAG-2156,2026-08-22,Kesehatan & Kecantikan,7,75000,COD,Magelang
+MAG-2157,2026-08-18,Kesehatan & Kecantikan,3,250000,COD,Magelang
+MAG-2158,2026-08-24,Fashion,5,150000,COD,Magelang
+MAG-2159,2026-08-12,Fashion,7,250000,Transfer Bank,Magelang
+MAG-2160,2026-08-31,Kesehatan & Kecantikan,6,50000,COD,Magelang
+MAG-2161,2026-08-31,Makanan & Minuman,2,75000,E-Wallet,Magelang
+MAG-2162,2026-08-05,Elektronik,3,100000,COD,Magelang
+MAG-2163,2026-08-08,Elektronik,7,25000,Transfer Bank,Magelang
+MAG-2164,2026-08-21,Fashion,4,250000,Transfer Bank,Magelang
+MAG-2165,2026-08-28,Fashion,1,150000,COD,Magelang
+MAG-2166,2026-08-12,Kesehatan & Kecantikan,6,75000,Kartu Kredit,Magelang
+MAG-2167,2026-08-06,Rumah Tangga,7,25000,COD,Magelang
+MAG-2168,2026-08-18,Kesehatan & Kecantikan,6,100000,Kartu Kredit,Magelang
+MAG-2169,2026-08-23,Makanan & Minuman,6,250000,Kartu Kredit,Magelang
+MAG-2170,2026-08-26,Kesehatan & Kecantikan,1,150000,Kartu Kredit,Magelang
+MAG-2171,2026-08-19,Elektronik,1,250000,Kartu Kredit,Magelang
+MAG-2172,2026-08-14,Kesehatan & Kecantikan,3,100000,E-Wallet,Magelang
+MAG-2173,2026-08-07,Elektronik,5,150000,E-Wallet,Magelang
+MAG-2174,2026-08-04,Elektronik,7,50000,Kartu Kredit,Magelang
+MAG-2175,2026-08-25,Kesehatan & Kecantikan,6,50000,Kartu Kredit,Magelang
+MAG-2176,2026-08-15,Fashion,3,75000,Kartu Kredit,Magelang
+MAG-2177,2026-08-18,Makanan & Minuman,1,250000,Kartu Kredit,Magelang
+MAG-2178,2026-08-24,Elektronik,4,250000,E-Wallet,Magelang
+MAG-2179,2026-08-21,Elektronik,5,25000,COD,Magelang
+MAG-2180,2026-08-30,Elektronik,3,25000,Transfer Bank,Magelang
+MAG-2181,2026-08-14,Fashion,6,50000,Transfer Bank,Magelang
+MAG-2182,2026-08-16,Makanan & Minuman,5,250000,Kartu Kredit,Magelang
+MAG-2183,2026-08-18,Elektronik,6,25000,COD,Magelang
+MAG-2184,2026-08-25,Rumah Tangga,3,100000,Transfer Bank,Magelang
+MAG-2185,2026-08-21,Fashion,5,75000,Transfer Bank,Magelang
+MAG-2186,2026-08-01,Makanan & Minuman,7,100000,Kartu Kredit,Magelang
+MAG-2187,2026-08-21,Kesehatan & Kecantikan,7,250000,Transfer Bank,Magelang
+MAG-2188,2026-08-29,Rumah Tangga,4,25000,Kartu Kredit,Magelang
+MAG-2189,2026-08-16,Kesehatan & Kecantikan,2,250000,E-Wallet,Magelang
+MAG-2190,2026-08-19,Fashion,7,150000,E-Wallet,Magelang
+MAG-2191,2026-08-30,Fashion,7,150000,COD,Magelang
+MAG-2192,2026-08-29,Kesehatan & Kecantikan,3,100000,Transfer Bank,Magelang
+MAG-2193,2026-08-22,Fashion,1,150000,COD,Magelang
+MAG-2194,2026-08-12,Fashion,4,150000,COD,Magelang
+MAG-2195,2026-08-09,Makanan & Minuman,1,250000,COD,Magelang
+MAG-2196,2026-08-28,Fashion,6,250000,COD,Magelang
+MAG-2197,2026-08-14,Elektronik,1,250000,COD,Magelang
+MAG-2198,2026-08-02,Makanan & Minuman,6,100000,Transfer Bank,Magelang
+MAG-2199,2026-08-25,Elektronik,3,150000,E-Wallet,Magelang
