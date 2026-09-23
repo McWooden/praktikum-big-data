@@ -1,0 +1,501 @@
+order_id,kategori,kota,unit_terjual,harga_satuan
+TRX-0,Makanan & Minuman,Purworejo,8,75000
+TRX-1,Elektronik,Solo,9,75000
+TRX-2,Kesehatan & Kecantikan,Solo,6,100000
+TRX-3,Fashion,Yogyakarta,6,100000
+TRX-4,Elektronik,Yogyakarta,2,75000
+TRX-5,Kesehatan & Kecantikan,Magelang,4,100000
+TRX-6,Rumah Tangga,Magelang,6,25000
+TRX-7,Elektronik,Semarang,8,50000
+TRX-8,Fashion,Semarang,5,25000
+TRX-9,Elektronik,Yogyakarta,3,100000
+TRX-10,Kesehatan & Kecantikan,Purworejo,6,50000
+TRX-11,Makanan & Minuman,Magelang,1,75000
+TRX-12,Kesehatan & Kecantikan,Purworejo,4,100000
+TRX-13,Elektronik,Semarang,3,100000
+TRX-14,Kesehatan & Kecantikan,Purworejo,8,50000
+TRX-15,Kesehatan & Kecantikan,Semarang,1,100000
+TRX-16,Makanan & Minuman,Magelang,5,50000
+TRX-17,Fashion,Semarang,1,50000
+TRX-18,Elektronik,Magelang,7,150000
+TRX-19,Elektronik,Magelang,2,100000
+TRX-20,Elektronik,Semarang,1,50000
+TRX-21,Makanan & Minuman,Solo,7,25000
+TRX-22,Rumah Tangga,Semarang,5,25000
+TRX-23,Kesehatan & Kecantikan,Purworejo,5,100000
+TRX-24,Kesehatan & Kecantikan,Magelang,1,50000
+TRX-25,Rumah Tangga,Yogyakarta,6,100000
+TRX-26,Fashion,Solo,7,25000
+TRX-27,Rumah Tangga,Magelang,3,50000
+TRX-28,Elektronik,Purworejo,8,50000
+TRX-29,Rumah Tangga,Solo,7,75000
+TRX-30,Rumah Tangga,Solo,5,100000
+TRX-31,Rumah Tangga,Semarang,9,100000
+TRX-32,Fashion,Magelang,8,100000
+TRX-33,Makanan & Minuman,Magelang,8,150000
+TRX-34,Fashion,Purworejo,8,150000
+TRX-35,Elektronik,Purworejo,9,150000
+TRX-36,Makanan & Minuman,Purworejo,3,50000
+TRX-37,Elektronik,Purworejo,6,25000
+TRX-38,Kesehatan & Kecantikan,Solo,8,50000
+TRX-39,Makanan & Minuman,Semarang,6,150000
+TRX-40,Elektronik,Solo,1,50000
+TRX-41,Makanan & Minuman,Magelang,9,50000
+TRX-42,Elektronik,Magelang,4,25000
+TRX-43,Rumah Tangga,Solo,1,25000
+TRX-44,Makanan & Minuman,Semarang,4,100000
+TRX-45,Kesehatan & Kecantikan,Purworejo,3,75000
+TRX-46,Elektronik,Solo,2,25000
+TRX-47,Makanan & Minuman,Yogyakarta,5,50000
+TRX-48,Makanan & Minuman,Semarang,7,25000
+TRX-49,Fashion,Semarang,7,150000
+TRX-50,Kesehatan & Kecantikan,Solo,8,75000
+TRX-51,Rumah Tangga,Semarang,4,75000
+TRX-52,Kesehatan & Kecantikan,Purworejo,9,75000
+TRX-53,Makanan & Minuman,Yogyakarta,3,25000
+TRX-54,Fashion,Semarang,3,75000
+TRX-55,Makanan & Minuman,Purworejo,2,100000
+TRX-56,Elektronik,Purworejo,2,150000
+TRX-57,Elektronik,Yogyakarta,6,75000
+TRX-58,Kesehatan & Kecantikan,Purworejo,7,50000
+TRX-59,Kesehatan & Kecantikan,Yogyakarta,3,50000
+TRX-60,Makanan & Minuman,Yogyakarta,2,150000
+TRX-61,Fashion,Yogyakarta,1,100000
+TRX-62,Makanan & Minuman,Purworejo,4,50000
+TRX-63,Makanan & Minuman,Solo,6,50000
+TRX-64,Elektronik,Solo,2,25000
+TRX-65,Kesehatan & Kecantikan,Yogyakarta,2,25000
+TRX-66,Rumah Tangga,Semarang,9,25000
+TRX-67,Kesehatan & Kecantikan,Semarang,5,150000
+TRX-68,Rumah Tangga,Yogyakarta,5,75000
+TRX-69,Makanan & Minuman,Magelang,3,75000
+TRX-70,Elektronik,Yogyakarta,7,50000
+TRX-71,Elektronik,Purworejo,5,150000
+TRX-72,Kesehatan & Kecantikan,Semarang,4,50000
+TRX-73,Makanan & Minuman,Semarang,5,100000
+TRX-74,Elektronik,Purworejo,2,50000
+TRX-75,Elektronik,Solo,1,50000
+TRX-76,Makanan & Minuman,Purworejo,3,25000
+TRX-77,Makanan & Minuman,Magelang,6,100000
+TRX-78,Makanan & Minuman,Yogyakarta,3,75000
+TRX-79,Fashion,Solo,4,75000
+TRX-80,Rumah Tangga,Solo,1,50000
+TRX-81,Makanan & Minuman,Semarang,9,150000
+TRX-82,Fashion,Yogyakarta,1,25000
+TRX-83,Kesehatan & Kecantikan,Solo,8,150000
+TRX-84,Fashion,Semarang,4,100000
+TRX-85,Kesehatan & Kecantikan,Yogyakarta,3,50000
+TRX-86,Fashion,Solo,5,50000
+TRX-87,Kesehatan & Kecantikan,Magelang,7,25000
+TRX-88,Makanan & Minuman,Solo,7,75000
+TRX-89,Makanan & Minuman,Yogyakarta,9,25000
+TRX-90,Elektronik,Solo,8,150000
+TRX-91,Elektronik,Solo,2,150000
+TRX-92,Fashion,Solo,9,150000
+TRX-93,Makanan & Minuman,Yogyakarta,6,75000
+TRX-94,Fashion,Yogyakarta,2,100000
+TRX-95,Fashion,Yogyakarta,9,100000
+TRX-96,Elektronik,Purworejo,8,50000
+TRX-97,Fashion,Yogyakarta,2,150000
+TRX-98,Fashion,Yogyakarta,3,25000
+TRX-99,Kesehatan & Kecantikan,Magelang,6,25000
+TRX-100,Makanan & Minuman,Purworejo,4,150000
+TRX-101,Fashion,Semarang,7,100000
+TRX-102,Makanan & Minuman,Purworejo,5,75000
+TRX-103,Kesehatan & Kecantikan,Yogyakarta,8,150000
+TRX-104,Kesehatan & Kecantikan,Solo,3,100000
+TRX-105,Rumah Tangga,Semarang,2,75000
+TRX-106,Makanan & Minuman,Solo,4,100000
+TRX-107,Elektronik,Purworejo,2,75000
+TRX-108,Rumah Tangga,Semarang,9,75000
+TRX-109,Kesehatan & Kecantikan,Semarang,1,150000
+TRX-110,Makanan & Minuman,Magelang,1,25000
+TRX-111,Rumah Tangga,Magelang,1,150000
+TRX-112,Rumah Tangga,Semarang,2,50000
+TRX-113,Kesehatan & Kecantikan,Purworejo,3,100000
+TRX-114,Elektronik,Magelang,5,75000
+TRX-115,Makanan & Minuman,Purworejo,9,50000
+TRX-116,Kesehatan & Kecantikan,Magelang,6,150000
+TRX-117,Makanan & Minuman,Purworejo,9,25000
+TRX-118,Makanan & Minuman,Purworejo,1,150000
+TRX-119,Makanan & Minuman,Yogyakarta,5,150000
+TRX-120,Rumah Tangga,Semarang,9,50000
+TRX-121,Makanan & Minuman,Yogyakarta,2,75000
+TRX-122,Elektronik,Solo,4,150000
+TRX-123,Elektronik,Magelang,1,150000
+TRX-124,Elektronik,Magelang,6,50000
+TRX-125,Rumah Tangga,Purworejo,2,75000
+TRX-126,Elektronik,Yogyakarta,4,50000
+TRX-127,Fashion,Yogyakarta,8,100000
+TRX-128,Makanan & Minuman,Yogyakarta,9,25000
+TRX-129,Rumah Tangga,Semarang,7,100000
+TRX-130,Fashion,Purworejo,5,75000
+TRX-131,Rumah Tangga,Magelang,4,25000
+TRX-132,Fashion,Magelang,3,25000
+TRX-133,Kesehatan & Kecantikan,Semarang,7,150000
+TRX-134,Rumah Tangga,Magelang,5,100000
+TRX-135,Makanan & Minuman,Purworejo,2,150000
+TRX-136,Rumah Tangga,Semarang,8,100000
+TRX-137,Elektronik,Magelang,2,150000
+TRX-138,Elektronik,Solo,5,150000
+TRX-139,Rumah Tangga,Semarang,5,150000
+TRX-140,Makanan & Minuman,Purworejo,4,50000
+TRX-141,Fashion,Solo,2,50000
+TRX-142,Fashion,Yogyakarta,8,100000
+TRX-143,Rumah Tangga,Magelang,4,150000
+TRX-144,Fashion,Magelang,8,150000
+TRX-145,Makanan & Minuman,Solo,5,150000
+TRX-146,Rumah Tangga,Semarang,6,150000
+TRX-147,Kesehatan & Kecantikan,Solo,2,150000
+TRX-148,Fashion,Purworejo,8,150000
+TRX-149,Elektronik,Solo,7,75000
+TRX-150,Elektronik,Yogyakarta,6,50000
+TRX-151,Fashion,Purworejo,7,25000
+TRX-152,Kesehatan & Kecantikan,Purworejo,5,25000
+TRX-153,Elektronik,Yogyakarta,6,100000
+TRX-154,Elektronik,Yogyakarta,4,50000
+TRX-155,Fashion,Yogyakarta,9,75000
+TRX-156,Kesehatan & Kecantikan,Semarang,3,25000
+TRX-157,Kesehatan & Kecantikan,Yogyakarta,9,150000
+TRX-158,Elektronik,Solo,3,25000
+TRX-159,Rumah Tangga,Magelang,7,25000
+TRX-160,Makanan & Minuman,Solo,1,150000
+TRX-161,Makanan & Minuman,Magelang,6,50000
+TRX-162,Elektronik,Yogyakarta,2,50000
+TRX-163,Fashion,Solo,6,150000
+TRX-164,Elektronik,Magelang,2,100000
+TRX-165,Rumah Tangga,Purworejo,5,100000
+TRX-166,Fashion,Purworejo,9,25000
+TRX-167,Rumah Tangga,Purworejo,6,100000
+TRX-168,Kesehatan & Kecantikan,Purworejo,6,50000
+TRX-169,Rumah Tangga,Solo,3,75000
+TRX-170,Kesehatan & Kecantikan,Yogyakarta,9,150000
+TRX-171,Rumah Tangga,Solo,1,150000
+TRX-172,Elektronik,Magelang,4,75000
+TRX-173,Kesehatan & Kecantikan,Magelang,5,75000
+TRX-174,Fashion,Purworejo,5,100000
+TRX-175,Makanan & Minuman,Semarang,6,75000
+TRX-176,Rumah Tangga,Purworejo,6,150000
+TRX-177,Fashion,Solo,1,150000
+TRX-178,Elektronik,Purworejo,3,150000
+TRX-179,Kesehatan & Kecantikan,Magelang,1,25000
+TRX-180,Elektronik,Purworejo,5,75000
+TRX-181,Makanan & Minuman,Purworejo,6,75000
+TRX-182,Makanan & Minuman,Purworejo,4,50000
+TRX-183,Elektronik,Yogyakarta,5,75000
+TRX-184,Rumah Tangga,Yogyakarta,2,75000
+TRX-185,Rumah Tangga,Solo,8,75000
+TRX-186,Fashion,Yogyakarta,8,100000
+TRX-187,Rumah Tangga,Solo,1,50000
+TRX-188,Makanan & Minuman,Solo,6,150000
+TRX-189,Kesehatan & Kecantikan,Solo,2,100000
+TRX-190,Fashion,Yogyakarta,8,25000
+TRX-191,Makanan & Minuman,Solo,8,25000
+TRX-192,Elektronik,Yogyakarta,9,25000
+TRX-193,Rumah Tangga,Yogyakarta,7,150000
+TRX-194,Makanan & Minuman,Solo,6,100000
+TRX-195,Fashion,Yogyakarta,3,25000
+TRX-196,Makanan & Minuman,Yogyakarta,7,25000
+TRX-197,Fashion,Yogyakarta,9,75000
+TRX-198,Makanan & Minuman,Semarang,2,150000
+TRX-199,Makanan & Minuman,Solo,7,100000
+TRX-200,Rumah Tangga,Purworejo,2,150000
+TRX-201,Kesehatan & Kecantikan,Solo,2,50000
+TRX-202,Elektronik,Yogyakarta,5,150000
+TRX-203,Makanan & Minuman,Semarang,1,25000
+TRX-204,Rumah Tangga,Magelang,1,50000
+TRX-205,Rumah Tangga,Magelang,9,100000
+TRX-206,Rumah Tangga,Magelang,5,50000
+TRX-207,Rumah Tangga,Semarang,7,100000
+TRX-208,Rumah Tangga,Purworejo,8,75000
+TRX-209,Elektronik,Yogyakarta,8,100000
+TRX-210,Kesehatan & Kecantikan,Purworejo,4,50000
+TRX-211,Rumah Tangga,Solo,6,150000
+TRX-212,Fashion,Solo,2,25000
+TRX-213,Elektronik,Yogyakarta,3,100000
+TRX-214,Elektronik,Solo,2,150000
+TRX-215,Rumah Tangga,Purworejo,6,150000
+TRX-216,Fashion,Purworejo,7,100000
+TRX-217,Elektronik,Solo,1,25000
+TRX-218,Kesehatan & Kecantikan,Semarang,2,25000
+TRX-219,Elektronik,Purworejo,8,50000
+TRX-220,Makanan & Minuman,Semarang,3,50000
+TRX-221,Kesehatan & Kecantikan,Magelang,3,50000
+TRX-222,Elektronik,Purworejo,7,50000
+TRX-223,Makanan & Minuman,Solo,2,100000
+TRX-224,Rumah Tangga,Solo,5,50000
+TRX-225,Kesehatan & Kecantikan,Magelang,1,75000
+TRX-226,Makanan & Minuman,Yogyakarta,7,100000
+TRX-227,Elektronik,Purworejo,5,150000
+TRX-228,Makanan & Minuman,Semarang,8,75000
+TRX-229,Makanan & Minuman,Semarang,6,150000
+TRX-230,Elektronik,Yogyakarta,5,100000
+TRX-231,Rumah Tangga,Solo,2,150000
+TRX-232,Kesehatan & Kecantikan,Purworejo,1,25000
+TRX-233,Fashion,Yogyakarta,7,100000
+TRX-234,Rumah Tangga,Yogyakarta,1,50000
+TRX-235,Elektronik,Solo,7,100000
+TRX-236,Elektronik,Purworejo,7,75000
+TRX-237,Rumah Tangga,Solo,5,150000
+TRX-238,Kesehatan & Kecantikan,Purworejo,5,50000
+TRX-239,Makanan & Minuman,Purworejo,6,75000
+TRX-240,Rumah Tangga,Purworejo,6,25000
+TRX-241,Makanan & Minuman,Magelang,7,25000
+TRX-242,Makanan & Minuman,Solo,8,75000
+TRX-243,Makanan & Minuman,Yogyakarta,3,100000
+TRX-244,Kesehatan & Kecantikan,Yogyakarta,3,100000
+TRX-245,Fashion,Yogyakarta,5,25000
+TRX-246,Elektronik,Purworejo,8,50000
+TRX-247,Rumah Tangga,Yogyakarta,1,25000
+TRX-248,Elektronik,Magelang,1,75000
+TRX-249,Fashion,Purworejo,2,25000
+TRX-250,Rumah Tangga,Semarang,8,75000
+TRX-251,Kesehatan & Kecantikan,Semarang,2,50000
+TRX-252,Kesehatan & Kecantikan,Purworejo,8,100000
+TRX-253,Elektronik,Semarang,5,150000
+TRX-254,Makanan & Minuman,Purworejo,3,50000
+TRX-255,Fashion,Yogyakarta,4,150000
+TRX-256,Rumah Tangga,Yogyakarta,5,75000
+TRX-257,Rumah Tangga,Yogyakarta,9,50000
+TRX-258,Rumah Tangga,Purworejo,8,100000
+TRX-259,Fashion,Magelang,9,100000
+TRX-260,Makanan & Minuman,Purworejo,5,150000
+TRX-261,Rumah Tangga,Magelang,9,100000
+TRX-262,Kesehatan & Kecantikan,Semarang,9,150000
+TRX-263,Makanan & Minuman,Yogyakarta,7,150000
+TRX-264,Makanan & Minuman,Semarang,7,100000
+TRX-265,Elektronik,Semarang,1,100000
+TRX-266,Kesehatan & Kecantikan,Purworejo,2,150000
+TRX-267,Fashion,Semarang,6,50000
+TRX-268,Makanan & Minuman,Purworejo,2,50000
+TRX-269,Makanan & Minuman,Solo,3,25000
+TRX-270,Makanan & Minuman,Semarang,6,25000
+TRX-271,Elektronik,Yogyakarta,3,100000
+TRX-272,Kesehatan & Kecantikan,Solo,3,100000
+TRX-273,Fashion,Semarang,2,50000
+TRX-274,Kesehatan & Kecantikan,Purworejo,3,50000
+TRX-275,Makanan & Minuman,Solo,3,150000
+TRX-276,Rumah Tangga,Magelang,1,50000
+TRX-277,Kesehatan & Kecantikan,Magelang,9,100000
+TRX-278,Makanan & Minuman,Semarang,3,100000
+TRX-279,Makanan & Minuman,Yogyakarta,6,50000
+TRX-280,Elektronik,Semarang,6,25000
+TRX-281,Elektronik,Magelang,7,100000
+TRX-282,Fashion,Solo,2,25000
+TRX-283,Fashion,Yogyakarta,7,150000
+TRX-284,Elektronik,Yogyakarta,8,100000
+TRX-285,Rumah Tangga,Purworejo,3,75000
+TRX-286,Elektronik,Semarang,8,50000
+TRX-287,Makanan & Minuman,Yogyakarta,7,25000
+TRX-288,Fashion,Semarang,7,75000
+TRX-289,Elektronik,Yogyakarta,5,100000
+TRX-290,Rumah Tangga,Purworejo,8,100000
+TRX-291,Makanan & Minuman,Solo,6,25000
+TRX-292,Elektronik,Magelang,2,100000
+TRX-293,Rumah Tangga,Yogyakarta,8,50000
+TRX-294,Kesehatan & Kecantikan,Purworejo,5,50000
+TRX-295,Kesehatan & Kecantikan,Magelang,9,25000
+TRX-296,Kesehatan & Kecantikan,Purworejo,9,100000
+TRX-297,Elektronik,Magelang,5,50000
+TRX-298,Makanan & Minuman,Yogyakarta,5,50000
+TRX-299,Fashion,Magelang,7,100000
+TRX-300,Elektronik,Yogyakarta,7,50000
+TRX-301,Fashion,Magelang,3,25000
+TRX-302,Rumah Tangga,Semarang,5,75000
+TRX-303,Kesehatan & Kecantikan,Semarang,5,150000
+TRX-304,Kesehatan & Kecantikan,Semarang,7,75000
+TRX-305,Kesehatan & Kecantikan,Solo,1,100000
+TRX-306,Fashion,Magelang,8,25000
+TRX-307,Makanan & Minuman,Purworejo,3,75000
+TRX-308,Makanan & Minuman,Yogyakarta,4,50000
+TRX-309,Makanan & Minuman,Solo,1,50000
+TRX-310,Rumah Tangga,Purworejo,1,50000
+TRX-311,Makanan & Minuman,Semarang,1,25000
+TRX-312,Rumah Tangga,Solo,3,50000
+TRX-313,Elektronik,Yogyakarta,9,25000
+TRX-314,Kesehatan & Kecantikan,Solo,4,50000
+TRX-315,Kesehatan & Kecantikan,Semarang,6,150000
+TRX-316,Elektronik,Magelang,9,100000
+TRX-317,Kesehatan & Kecantikan,Solo,6,100000
+TRX-318,Makanan & Minuman,Purworejo,5,75000
+TRX-319,Kesehatan & Kecantikan,Purworejo,8,100000
+TRX-320,Rumah Tangga,Semarang,8,100000
+TRX-321,Fashion,Purworejo,5,150000
+TRX-322,Fashion,Magelang,1,50000
+TRX-323,Rumah Tangga,Purworejo,7,150000
+TRX-324,Fashion,Yogyakarta,1,25000
+TRX-325,Makanan & Minuman,Semarang,3,150000
+TRX-326,Fashion,Purworejo,1,75000
+TRX-327,Elektronik,Magelang,3,150000
+TRX-328,Elektronik,Solo,4,75000
+TRX-329,Rumah Tangga,Purworejo,3,25000
+TRX-330,Elektronik,Solo,6,75000
+TRX-331,Elektronik,Purworejo,3,100000
+TRX-332,Makanan & Minuman,Semarang,3,75000
+TRX-333,Elektronik,Purworejo,2,50000
+TRX-334,Elektronik,Yogyakarta,5,100000
+TRX-335,Fashion,Magelang,6,50000
+TRX-336,Elektronik,Purworejo,7,75000
+TRX-337,Makanan & Minuman,Yogyakarta,5,100000
+TRX-338,Fashion,Solo,3,100000
+TRX-339,Elektronik,Semarang,6,25000
+TRX-340,Makanan & Minuman,Solo,1,50000
+TRX-341,Elektronik,Purworejo,4,25000
+TRX-342,Kesehatan & Kecantikan,Magelang,8,100000
+TRX-343,Rumah Tangga,Solo,2,100000
+TRX-344,Kesehatan & Kecantikan,Yogyakarta,1,150000
+TRX-345,Kesehatan & Kecantikan,Semarang,4,25000
+TRX-346,Kesehatan & Kecantikan,Yogyakarta,3,100000
+TRX-347,Elektronik,Magelang,1,150000
+TRX-348,Fashion,Purworejo,4,25000
+TRX-349,Rumah Tangga,Purworejo,8,25000
+TRX-350,Rumah Tangga,Yogyakarta,9,150000
+TRX-351,Kesehatan & Kecantikan,Yogyakarta,3,150000
+TRX-352,Rumah Tangga,Yogyakarta,2,25000
+TRX-353,Fashion,Purworejo,2,75000
+TRX-354,Fashion,Solo,8,25000
+TRX-355,Elektronik,Semarang,2,100000
+TRX-356,Elektronik,Yogyakarta,2,150000
+TRX-357,Makanan & Minuman,Purworejo,2,75000
+TRX-358,Elektronik,Purworejo,8,25000
+TRX-359,Fashion,Purworejo,8,75000
+TRX-360,Kesehatan & Kecantikan,Purworejo,1,75000
+TRX-361,Elektronik,Yogyakarta,9,75000
+TRX-362,Elektronik,Yogyakarta,2,75000
+TRX-363,Kesehatan & Kecantikan,Semarang,9,25000
+TRX-364,Fashion,Semarang,3,100000
+TRX-365,Fashion,Yogyakarta,1,150000
+TRX-366,Kesehatan & Kecantikan,Solo,1,25000
+TRX-367,Fashion,Yogyakarta,2,150000
+TRX-368,Kesehatan & Kecantikan,Yogyakarta,9,25000
+TRX-369,Kesehatan & Kecantikan,Yogyakarta,8,150000
+TRX-370,Kesehatan & Kecantikan,Purworejo,6,75000
+TRX-371,Fashion,Yogyakarta,4,150000
+TRX-372,Fashion,Magelang,1,50000
+TRX-373,Makanan & Minuman,Purworejo,3,150000
+TRX-374,Rumah Tangga,Semarang,1,75000
+TRX-375,Elektronik,Semarang,3,75000
+TRX-376,Elektronik,Purworejo,9,50000
+TRX-377,Elektronik,Semarang,8,75000
+TRX-378,Rumah Tangga,Solo,4,25000
+TRX-379,Kesehatan & Kecantikan,Purworejo,4,25000
+TRX-380,Rumah Tangga,Purworejo,6,75000
+TRX-381,Makanan & Minuman,Yogyakarta,7,150000
+TRX-382,Elektronik,Yogyakarta,4,50000
+TRX-383,Rumah Tangga,Solo,3,50000
+TRX-384,Kesehatan & Kecantikan,Purworejo,3,25000
+TRX-385,Rumah Tangga,Solo,7,75000
+TRX-386,Makanan & Minuman,Purworejo,5,50000
+TRX-387,Kesehatan & Kecantikan,Magelang,9,25000
+TRX-388,Elektronik,Semarang,3,25000
+TRX-389,Fashion,Yogyakarta,6,150000
+TRX-390,Kesehatan & Kecantikan,Magelang,9,150000
+TRX-391,Rumah Tangga,Yogyakarta,1,100000
+TRX-392,Makanan & Minuman,Magelang,2,100000
+TRX-393,Makanan & Minuman,Solo,1,100000
+TRX-394,Makanan & Minuman,Solo,3,25000
+TRX-395,Elektronik,Solo,1,75000
+TRX-396,Kesehatan & Kecantikan,Magelang,4,75000
+TRX-397,Fashion,Yogyakarta,9,150000
+TRX-398,Elektronik,Magelang,4,25000
+TRX-399,Elektronik,Solo,8,75000
+TRX-400,Fashion,Purworejo,2,75000
+TRX-401,Makanan & Minuman,Purworejo,2,150000
+TRX-402,Elektronik,Magelang,2,75000
+TRX-403,Makanan & Minuman,Yogyakarta,9,50000
+TRX-404,Makanan & Minuman,Magelang,3,75000
+TRX-405,Fashion,Magelang,7,25000
+TRX-406,Elektronik,Yogyakarta,8,100000
+TRX-407,Makanan & Minuman,Yogyakarta,3,25000
+TRX-408,Kesehatan & Kecantikan,Yogyakarta,8,50000
+TRX-409,Elektronik,Magelang,4,50000
+TRX-410,Elektronik,Magelang,4,100000
+TRX-411,Elektronik,Solo,1,75000
+TRX-412,Elektronik,Magelang,2,25000
+TRX-413,Fashion,Purworejo,3,75000
+TRX-414,Makanan & Minuman,Semarang,5,75000
+TRX-415,Makanan & Minuman,Semarang,9,25000
+TRX-416,Makanan & Minuman,Magelang,2,150000
+TRX-417,Elektronik,Magelang,8,50000
+TRX-418,Fashion,Yogyakarta,2,150000
+TRX-419,Makanan & Minuman,Yogyakarta,1,150000
+TRX-420,Makanan & Minuman,Yogyakarta,5,50000
+TRX-421,Fashion,Magelang,9,25000
+TRX-422,Rumah Tangga,Purworejo,8,50000
+TRX-423,Fashion,Semarang,3,50000
+TRX-424,Elektronik,Semarang,6,50000
+TRX-425,Kesehatan & Kecantikan,Semarang,8,150000
+TRX-426,Makanan & Minuman,Solo,1,100000
+TRX-427,Rumah Tangga,Semarang,8,25000
+TRX-428,Fashion,Solo,4,100000
+TRX-429,Fashion,Magelang,9,50000
+TRX-430,Kesehatan & Kecantikan,Purworejo,5,50000
+TRX-431,Rumah Tangga,Purworejo,5,150000
+TRX-432,Kesehatan & Kecantikan,Solo,1,150000
+TRX-433,Makanan & Minuman,Yogyakarta,3,50000
+TRX-434,Makanan & Minuman,Purworejo,4,75000
+TRX-435,Kesehatan & Kecantikan,Semarang,2,75000
+TRX-436,Rumah Tangga,Semarang,4,25000
+TRX-437,Kesehatan & Kecantikan,Solo,6,75000
+TRX-438,Elektronik,Purworejo,4,150000
+TRX-439,Kesehatan & Kecantikan,Yogyakarta,4,25000
+TRX-440,Kesehatan & Kecantikan,Semarang,8,25000
+TRX-441,Elektronik,Purworejo,5,75000
+TRX-442,Fashion,Purworejo,2,100000
+TRX-443,Kesehatan & Kecantikan,Purworejo,3,150000
+TRX-444,Makanan & Minuman,Purworejo,3,50000
+TRX-445,Elektronik,Semarang,6,25000
+TRX-446,Makanan & Minuman,Purworejo,7,150000
+TRX-447,Kesehatan & Kecantikan,Semarang,2,150000
+TRX-448,Kesehatan & Kecantikan,Solo,8,75000
+TRX-449,Rumah Tangga,Yogyakarta,7,150000
+TRX-450,Elektronik,Solo,6,75000
+TRX-451,Fashion,Semarang,2,100000
+TRX-452,Rumah Tangga,Magelang,7,75000
+TRX-453,Makanan & Minuman,Yogyakarta,5,75000
+TRX-454,Fashion,Magelang,2,25000
+TRX-455,Rumah Tangga,Yogyakarta,7,100000
+TRX-456,Makanan & Minuman,Yogyakarta,8,50000
+TRX-457,Kesehatan & Kecantikan,Magelang,7,25000
+TRX-458,Fashion,Semarang,5,100000
+TRX-459,Rumah Tangga,Semarang,8,100000
+TRX-460,Makanan & Minuman,Semarang,7,100000
+TRX-461,Kesehatan & Kecantikan,Purworejo,8,150000
+TRX-462,Kesehatan & Kecantikan,Solo,7,150000
+TRX-463,Makanan & Minuman,Purworejo,5,25000
+TRX-464,Kesehatan & Kecantikan,Semarang,4,75000
+TRX-465,Rumah Tangga,Solo,1,150000
+TRX-466,Kesehatan & Kecantikan,Magelang,1,25000
+TRX-467,Elektronik,Magelang,3,25000
+TRX-468,Fashion,Purworejo,4,100000
+TRX-469,Kesehatan & Kecantikan,Magelang,3,25000
+TRX-470,Makanan & Minuman,Magelang,8,150000
+TRX-471,Makanan & Minuman,Semarang,2,150000
+TRX-472,Fashion,Semarang,1,100000
+TRX-473,Rumah Tangga,Semarang,8,100000
+TRX-474,Kesehatan & Kecantikan,Purworejo,8,25000
+TRX-475,Makanan & Minuman,Purworejo,8,75000
+TRX-476,Rumah Tangga,Yogyakarta,1,75000
+TRX-477,Fashion,Semarang,3,50000
+TRX-478,Rumah Tangga,Yogyakarta,3,25000
+TRX-479,Elektronik,Semarang,6,75000
+TRX-480,Elektronik,Solo,1,50000
+TRX-481,Kesehatan & Kecantikan,Solo,6,75000
+TRX-482,Fashion,Yogyakarta,8,75000
+TRX-483,Makanan & Minuman,Solo,4,150000
+TRX-484,Kesehatan & Kecantikan,Solo,4,100000
+TRX-485,Fashion,Solo,5,25000
+TRX-486,Rumah Tangga,Magelang,3,75000
+TRX-487,Makanan & Minuman,Solo,4,50000
+TRX-488,Elektronik,Semarang,4,50000
+TRX-489,Fashion,Purworejo,5,100000
+TRX-490,Rumah Tangga,Magelang,2,75000
+TRX-491,Fashion,Magelang,9,100000
+TRX-492,Makanan & Minuman,Solo,4,100000
+TRX-493,Kesehatan & Kecantikan,Magelang,6,150000
+TRX-494,Fashion,Magelang,7,150000
+TRX-495,Rumah Tangga,Semarang,8,75000
+TRX-496,Fashion,Yogyakarta,8,50000
+TRX-497,Elektronik,Yogyakarta,4,25000
+TRX-498,Kesehatan & Kecantikan,Solo,4,100000
+TRX-499,Kesehatan & Kecantikan,Purworejo,1,25000
