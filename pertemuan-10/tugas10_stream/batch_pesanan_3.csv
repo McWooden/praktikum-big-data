@@ -1,0 +1,5 @@
+pesanan_id,nama_cabang,nama_menu,qty,harga_satuan,waktu_pesan
+P007,Yogyakarta,Espresso Nusantara,3,18000,2026-11-08 08:17:23
+P008,Yogyakarta,Roti Bakar Cokelat,2,18000,2026-11-08 08:17:23
+P009,Semarang,Nasi Goreng Mercon,1,28000,2026-11-08 08:17:23
+P010,Magelang,Kopi Susu Gula Aren,5,22000,2026-11-08 08:17:23

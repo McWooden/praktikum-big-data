@@ -1,0 +1,5 @@
+v1
+{"path":"file:///mnt/alterra/repos/praktikum-big-data/pertemuan-10/tugas10_stream/batch_pesanan_1.csv","timestamp":1794100623957,"batchId":0}
+{"path":"file:///mnt/alterra/repos/praktikum-big-data/pertemuan-10/tugas10_stream/batch_pesanan_2.csv","timestamp":1794100639690,"batchId":0}
+{"path":"file:///mnt/alterra/repos/praktikum-big-data/pertemuan-10/tugas10_stream/batch_pesanan_3.csv","timestamp":1794100643941,"batchId":0}
+{"path":"file:///mnt/alterra/repos/praktikum-big-data/pertemuan-10/tugas10_stream/batch_pesanan_4.csv","timestamp":1794100649471,"batchId":0}

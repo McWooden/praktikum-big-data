@@ -1,0 +1,4 @@
+pesanan_id,nama_cabang,nama_menu,qty,harga_satuan,waktu_pesan
+P001,Magelang,Kopi Susu Gula Aren,2,22000,2026-11-08 08:17:03
+P002,Yogyakarta,Americano Dingin,1,20000,2026-11-08 08:17:03
+P003,Semarang,Caramel Macchiato,3,28000,2026-11-08 08:17:03

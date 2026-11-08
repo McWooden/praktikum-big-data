@@ -1,0 +1,3 @@
+v1
+{"path":"file:///mnt/alterra/repos/praktikum-big-data/pertemuan-10/tugas10_output/part-00000-436673fa-f9ce-48d7-a850-101e238ca1d9-c000.snappy.parquet","size":2090,"isDir":false,"modificationTime":1794100653327,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///mnt/alterra/repos/praktikum-big-data/pertemuan-10/tugas10_output/part-00001-131c1eb6-5a2a-47e8-aa47-37d942d212d3-c000.snappy.parquet","size":2058,"isDir":false,"modificationTime":1794100653327,"blockReplication":1,"blockSize":33554432,"action":"add"}
